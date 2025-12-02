@@ -1,0 +1,10 @@
+**/input/
+**/in/
+**/data/
+*.dat
+*.in
+*.txt
+
+# use ! to negate ignore rules
+# eg !explanation.txt
+!README.md
